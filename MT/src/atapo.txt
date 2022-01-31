@@ -1,0 +1,10 @@
+@Programa Fonte Unifor
+fita aabb
+init qi
+accept qf
+
+qi,*,qi,*,>
+qi,_,q2,_,<
+
+q2,*,q2,*,<
+q2,_,qf,_,>

@@ -1,0 +1,16 @@
+main(){
+   int identificador1;
+   int identificador2 = 1;
+   bool teste1;
+   bool teste2 = true;
+   if(teste){
+      if(teste==true){
+      }
+    }
+    while(teste){
+        if(a==b){
+        }
+    }
+    for(identificador=0;a<=b;identificador++){
+    }
+}
